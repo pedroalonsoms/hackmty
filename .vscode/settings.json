@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "./backend/env/bin/python",
+    "[javascriptreact]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

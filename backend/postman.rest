@@ -1,0 +1,6 @@
+POST http://127.0.0.1:5000/insert_company 
+content-type: application/json
+
+{
+"name": "pedro", "email": "hello@hello.com", "password": "123"
+}
